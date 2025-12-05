@@ -3,9 +3,6 @@
 Frontend Developer with 2+ years of experience building user-focused web applications using **React.js**, **JavaScript**, and **TypeScript**.  
 I specialize in writing clean, maintainable code with functional components and modern hooks.
 
-🔹 Location: Pune, India  
-🔹 Open to Frontend / React Developer roles
-
 ---
 ## 🚀 Tech Stack
 
@@ -64,5 +61,3 @@ I specialize in writing clean, maintainable code with functional components and 
 💼 LinkedIn: *https://www.linkedin.com/in/sawata-gore-666b9a21b*
 
 ---
-
-Thank you for checking out my work!
