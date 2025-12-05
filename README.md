@@ -59,5 +59,3 @@ I specialize in writing clean, maintainable code with functional components and 
 
 📧 Email: sawatagore27@gmail.com  
 💼 LinkedIn: *https://www.linkedin.com/in/sawata-gore-666b9a21b*
-
----
