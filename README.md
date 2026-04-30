@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sawata Gore
 
-Frontend Developer with 2+ years of experience building user-focused web applications using **React.js**, **JavaScript**, and **TypeScript**.  
+Frontend Developer with 3 years of experience building user-focused web applications using **React.js**, **JavaScript**, and **TypeScript**.  
 I specialize in writing clean, maintainable code with functional components and modern hooks.
 
 ---
